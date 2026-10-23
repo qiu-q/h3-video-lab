@@ -1,0 +1,2 @@
+# AI entry point
+Read README.md and docs/parameters.md, docs/keyframes.md, docs/motion.md before changing this project. Read C:/Users/Administrator/.config/ai-shared/CONTEXT.md for the shared archive. This is a public H3 documentation and evidence repository. Preserve tested/untested distinctions. Never claim motion transfer was tested from text-driven dance results. Never upload weights, credentials, environments or unrelated personal files. Verify git remote HEAD after publishing. Add evidence and update MANIFEST.sha256 for future runs.

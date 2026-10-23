@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-23",
+  "file": "comfy_extras/nodes_minimax_h3.py",
+  "sha256": "5999ed8c22b13c8251084c0629fd82137d2fb52b55106abfc73bf5cafc73841d",
+  "commit": null,
+  "reason": "Local ComfyUI install has no git metadata",
+  "upstream": "https://github.com/Comfy-Org/ComfyUI/blob/master/comfy_extras/nodes_minimax_h3.py"
+}
